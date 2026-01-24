@@ -25,87 +25,27 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "db90",
+      "cityName": "Pampilhosa da Serra",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-01-24T13:14:26.821Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "8746382"
-    },
-    {
-      "id": "80da",
-      "cityName": "Fornex",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2026-01-19T14:26:08.795Z",
-      "notes": "Notes",
-      "position": {
-        "lat": "43.16512263158296",
-        "lng": "1.2304687500000002"
+        "lat": "40.06125658140474",
+        "lng": "-8.020019531250002"
       }
     },
     {
-      "id": "cf9f",
-      "cityName": "Makurdi",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2026-01-19T14:30:01.348Z",
-      "notes": "Yea, I am rocking it",
-      "position": {
-        "lat": "7.667441482726068",
-        "lng": "8.503417968750002"
-      }
-    },
-    {
-      "id": "55e9",
-      "cityName": "Ebonyi",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2026-01-19T14:41:08.402Z",
-      "notes": "Exciting vacation destination",
-      "position": {
-        "lat": "6.5118147063479",
-        "lng": "8.129882812500002"
-      }
-    },
-    {
-      "id": "022f",
-      "cityName": "Mikang",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2026-01-19T14:44:49.935Z",
+      "id": "c7ab",
+      "cityName": "Eslov",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-01-24T13:51:33.244Z",
       "notes": "",
       "position": {
-        "lat": "8.971897294083014",
-        "lng": "9.821777343750002"
+        "lat": "55.73948169869349",
+        "lng": "13.491210937500002"
       }
     }
   ]
