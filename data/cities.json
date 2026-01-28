@@ -59,6 +59,30 @@
         "lat": "7.710991655433217",
         "lng": "8.393554687500002"
       }
+    },
+    {
+      "id": "efe5",
+      "cityName": "Grafton Regis",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2026-01-28T13:23:47.651Z",
+      "notes": "",
+      "position": {
+        "lat": "52.119998657638156",
+        "lng": "-0.9008789062500001"
+      }
+    },
+    {
+      "id": "cbdb",
+      "cityName": "Coventry",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2026-01-28T13:24:07.285Z",
+      "notes": "",
+      "position": {
+        "lat": "52.417497793298324",
+        "lng": "-1.4337158203125"
+      }
     }
   ]
 }
