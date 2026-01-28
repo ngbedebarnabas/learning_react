@@ -37,15 +37,27 @@
       }
     },
     {
-      "id": "c7ab",
-      "cityName": "Eslov",
-      "country": "Sweden",
-      "emoji": "🇸🇪",
-      "date": "2026-01-24T13:51:33.244Z",
+      "id": "eb27",
+      "cityName": "Olocau del Rey",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-01-28T10:18:58.271Z",
       "notes": "",
       "position": {
-        "lat": "55.73948169869349",
-        "lng": "13.491210937500002"
+        "lat": "40.6306300839918",
+        "lng": "-0.30761718750000006"
+      }
+    },
+    {
+      "id": "84e5",
+      "cityName": "Makurdi",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2026-01-28T10:19:13.035Z",
+      "notes": "",
+      "position": {
+        "lat": "7.710991655433217",
+        "lng": "8.393554687500002"
       }
     }
   ]
