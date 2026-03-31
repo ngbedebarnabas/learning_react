@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Antwerp",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "123453"
-    },
-    {
       "cityName": "Lisbon",
       "country": "Portugal",
       "emoji": "🇵🇹",
@@ -37,42 +25,6 @@
       }
     },
     {
-      "id": "eb27",
-      "cityName": "Olocau del Rey",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-01-28T10:18:58.271Z",
-      "notes": "",
-      "position": {
-        "lat": "40.6306300839918",
-        "lng": "-0.30761718750000006"
-      }
-    },
-    {
-      "id": "84e5",
-      "cityName": "Makurdi",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2026-01-28T10:19:13.035Z",
-      "notes": "",
-      "position": {
-        "lat": "7.710991655433217",
-        "lng": "8.393554687500002"
-      }
-    },
-    {
-      "id": "efe5",
-      "cityName": "Grafton Regis",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2026-01-28T13:23:47.651Z",
-      "notes": "",
-      "position": {
-        "lat": "52.119998657638156",
-        "lng": "-0.9008789062500001"
-      }
-    },
-    {
       "id": "cbdb",
       "cityName": "Coventry",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
@@ -82,6 +34,54 @@
       "position": {
         "lat": "52.417497793298324",
         "lng": "-1.4337158203125"
+      }
+    },
+    {
+      "id": "be35",
+      "cityName": "Foggaret Ezzaou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2026-03-31T15:26:00.721Z",
+      "notes": "This is an amazing place to visit.",
+      "position": {
+        "lat": "27.293689224852407",
+        "lng": "3.4277343750000004"
+      }
+    },
+    {
+      "id": "142f",
+      "cityName": "Abuja",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2026-03-31T15:26:48.905Z",
+      "notes": "Nigeria's Capital City",
+      "position": {
+        "lat": "9.080400104155315",
+        "lng": "7.547607421875001"
+      }
+    },
+    {
+      "id": "e8e1",
+      "cityName": "Zonkwa",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2026-03-31T15:27:44.121Z",
+      "notes": "Amazing place",
+      "position": {
+        "lat": "9.535748998133627",
+        "lng": "8.239746093750002"
+      }
+    },
+    {
+      "id": "c7e4",
+      "cityName": "Thurles",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2026-03-31T15:28:09.602Z",
+      "notes": "",
+      "position": {
+        "lat": "52.68304276227743",
+        "lng": "-7.822265625000001"
       }
     }
   ]
